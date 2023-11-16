@@ -2,7 +2,7 @@
 
 ## 📝 About
 
-The project **Docker To do List** is a "containerization" of frontend, backend and test applications was implemented to practice Docker, developed in the Trybe course.
+The project **🐋 Docker To do List** is a "containerization" of frontend, backend and test applications was implemented to practice Docker, developed in the Trybe course.
 
 ## 🚀 Built With
 
